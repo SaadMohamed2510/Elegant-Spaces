@@ -1,0 +1,1 @@
+const supabase = require("../Config/SupabaseClient");
